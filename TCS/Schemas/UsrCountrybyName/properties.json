@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://api.nationalize.io",
+    "CreatedInVersion": "7.18.1.2800",
+    "Type": "Rest"
+  }
+}

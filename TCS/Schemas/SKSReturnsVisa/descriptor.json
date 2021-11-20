@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "77ee3368-5542-4e1e-8ea8-86874555e196",
+    "Name": "SKSReturnsVisa",
+    "ModifiedOnUtc": "\/Date(1630314464000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Returns"
+  }
+}

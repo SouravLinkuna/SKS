@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d33eadc8-e7d7-4505-95e5-3cd70ba29beb",
+    "Name": "UsrCountrybyName",
+    "ModifiedOnUtc": "\/Date(1629684639000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Country by Name",
+    "DependsOn": []
+  }
+}

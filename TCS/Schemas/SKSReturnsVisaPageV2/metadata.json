@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "983a699d-dae9-4a8a-bcf3-7dc52b409831"
+= MetaData.Schema.A2 "SKSReturnsVisaPageV2"
+= MetaData.Schema.B6 "1d3b57e9-2af5-4ca9-817e-869276f0bb2a"
+= MetaData.Schema.B8 "7.18.1.2800"
+= MetaData.Schema.HD1 "66e3a5b3-f004-4335-a4e9-5ba255c8a319"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.HD12
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

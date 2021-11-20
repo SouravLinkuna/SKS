@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8bacc291-6aff-461e-8abb-101ad318650c",
+    "Name": "SKSEventsInFolder",
+    "ModifiedOnUtc": "\/Date(1630057515000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Events in Folder"
+  }
+}

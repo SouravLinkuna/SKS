@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e7daebb0-86f1-41fe-8016-75b84a6c3cca",
+    "Name": "SKSEventsCategory",
+    "ModifiedOnUtc": "\/Date(1630057503000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Events Category"
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Events" />
+			<Item Name="Columns.SKSEventsCategory.Caption" Value="Category" />
+			<Item Name="Columns.SKSEventsEnddate.Caption" Value="End date" />
+			<Item Name="Columns.SKSEventsInitiator.Caption" Value="Initiator" />
+			<Item Name="Columns.SKSEventsLocation.Caption" Value="Location" />
+			<Item Name="Columns.SKSEventsName.Caption" Value="Name" />
+			<Item Name="Columns.SKSEventsOwner.Caption" Value="Owner" />
+			<Item Name="Columns.SKSEventsStartdate.Caption" Value="Start date" />
+			<Item Name="Columns.SKSEventsSubcategory.Caption" Value="Sub category" />
+			<Item Name="Columns.SKSNotes.Caption" Value="Notes" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c93a98b-4ae5-4d02-a783-96f03fdfb616",
+    "Name": "SKSReturnsFolder",
+    "ModifiedOnUtc": "\/Date(1630490420000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Returns folder"
+  }
+}

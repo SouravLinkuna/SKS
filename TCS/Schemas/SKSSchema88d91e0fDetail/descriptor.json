@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8575343f-d917-4b90-b368-809e1a6d2744",
+    "Name": "SKSSchema88d91e0fDetail",
+    "ModifiedOnUtc": "\/Date(1630063356000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Return Requests\""
+  }
+}

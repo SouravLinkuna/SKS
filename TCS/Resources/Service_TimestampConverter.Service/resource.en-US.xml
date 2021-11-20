@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Timestamp converter" />
+			<Item Name="ServiceMethods.Method1.Caption" Value="/UnixTime/fromunix" />
+			<Item Name="ServiceMethods.Method1.Request.Parameters.Timestamp.Caption" Value="Timestamp" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Parameter.Caption" Value="Parameter" />
+		</Items>
+	</Group>
+</Resources>

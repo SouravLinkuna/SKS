@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0972a60b-7100-4c34-b768-c89bc42515c6",
+    "Name": "SKSReturnsStatus",
+    "ModifiedOnUtc": "\/Date(1630490754000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Returns Status"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "53d34a1a-9669-4ff5-8bce-e6ffb81ff5fa",
+    "Name": "SKSEventsInTag",
+    "ModifiedOnUtc": "\/Date(1630057521000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Events section record tag"
+  }
+}

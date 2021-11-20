@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0fd511e3-2188-4a20-b9d3-ebc715e9e8ea",
+    "Name": "Service_TimestampConverter",
+    "ModifiedOnUtc": "\/Date(1629692626000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Timestamp converter",
+    "DependsOn": []
+  }
+}

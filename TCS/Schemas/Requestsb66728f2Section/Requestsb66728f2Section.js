@@ -46,7 +46,7 @@ define("Requestsb66728f2Section", ["ProcessModuleUtilities"], function(ProcessMo
 			onMyMainButtonClick:function(){
 				//var tag = arguments[3];
 				//this.showInformationDialog("Action clicked with tag: "+tag);
-				ProcessModuleUtilities.executeProcess({
+				ProcessModleUtuilities.executeProcess({
 					"sysProcessName": "Process_TimestampConverter"
 				});
 			},

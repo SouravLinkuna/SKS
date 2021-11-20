@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Country by Name" />
+			<Item Name="ServiceMethods.Method1.Caption" Value="/" />
+			<Item Name="ServiceMethods.Method1.Request.Parameters.Name.Caption" Value="name" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Country.Caption" Value="Country" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Country.ItemProperties.CCountryid.Caption" Value="Country_id" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Country.ItemProperties.CProbability.Caption" Value="Probability" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Name.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

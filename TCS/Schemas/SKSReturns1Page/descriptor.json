@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2402b48-d599-4b73-a025-bcaedaee9263",
+    "Name": "SKSReturns1Page",
+    "ModifiedOnUtc": "\/Date(1632452009000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Returns\""
+  }
+}

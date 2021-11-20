@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "9c263409-dc67-4d8a-9d98-78a7e03e84cc",
+    "Name": "SKSProcess_RequestReturnOfTickets",
+    "ModifiedOnUtc": "\/Date(1632452058000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Request return of tickets"
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "801e932e-ea32-4f32-b06c-e6e2f1c7b346",
+    "Name": "SKSCalculateTotalTicketCost",
+    "ModifiedOnUtc": "\/Date(1630312668000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate Total Ticket Cost"
+  }
+}

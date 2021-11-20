@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Returns&quot;" />
+			<Item Name="LocalizableStrings.SKSSchema4742a6aaDetail36c3a3e4DetailCaptionOnPage.Value" Value="Tickets" />
+			<Item Name="LocalizableStrings.Tab_ReturnRequestsTabCaption.Value" Value="Requests" />
+		</Items>
+	</Group>
+</Resources>

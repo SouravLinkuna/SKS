@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a6fc2ba-2efe-4e00-a92c-88514f13e4b5",
+    "Name": "SKSAccountCategory",
+    "ModifiedOnUtc": "\/Date(1630425253000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Account Category"
+  }
+}

@@ -15,6 +15,14 @@
           "A4": "9d4ac7eb-9cb9-479a-a314-2d7645e43aad",
           "A5": "03f703a9-4184-44c7-9901-28e72ddf4724",
           "GF1": "null"
+        },
+        {
+          "UId": "9104347e-2b8d-4c97-be10-35279b578ebe",
+          "A2": "TataShared",
+          "A3": "9d4ac7eb-9cb9-479a-a314-2d7645e43aad",
+          "A4": "9d4ac7eb-9cb9-479a-a314-2d7645e43aad",
+          "A5": "03f703a9-4184-44c7-9901-28e72ddf4724",
+          "GF1": "null"
         }
       ],
       "B6": "1d3b57e9-2af5-4ca9-817e-869276f0bb2a",
@@ -116,7 +124,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "ILog logger = LogManager.GetLogger(\"TCSLogger\");\r\nstring hello = \"Hello, World!\";\r\nlogger.Info(hello);\r\n\r\nreturn true;",
+          "CH1": "ILog logger = LogManager.GetLogger(\"TCSLogger\");\r\nstring hello = \"Hello, World!\";\r\nlogger.Info(hello);\r\nICalculator calculator = Terrasoft.Core.Factories.ClassFactory.Get<ICalculator>();\r\nvar result = calculator.Add(5, 10);\r\nlogger.InfoFormat(\"The result is: {0}\", result);\r\n\r\nreturn true;",
           "CH2": true
         },
         {

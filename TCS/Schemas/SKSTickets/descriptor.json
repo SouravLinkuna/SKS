@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7119cc3a-59a5-4691-aa76-34cc58e3dc09",
+    "Name": "SKSTickets",
+    "ModifiedOnUtc": "\/Date(1630487755000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Tickets"
+  }
+}

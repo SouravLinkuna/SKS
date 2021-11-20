@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d23eb12-bcb0-49c9-ab16-23199734a583",
+    "Name": "SKSProcess_ReturnApproval",
+    "ModifiedOnUtc": "\/Date(1632451729000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Return Approval Process"
+  }
+}

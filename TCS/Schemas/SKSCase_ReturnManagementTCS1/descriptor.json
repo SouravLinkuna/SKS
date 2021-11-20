@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "937422a8-72b7-4b40-b241-9e74168784f4",
+    "Name": "SKSCase_ReturnManagementTCS1",
+    "ModifiedOnUtc": "\/Date(1630303525000)\/",
+    "Parent": {
+      "UId": "de64c9bb-22aa-4b0b-a184-3e273df8806b",
+      "Name": "SKSCase_ReturnManagement"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Return Management"
+  }
+}

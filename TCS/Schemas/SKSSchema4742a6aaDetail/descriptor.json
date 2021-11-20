@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6515dd62-20f6-4990-92d2-485c9c709d03",
+    "Name": "SKSSchema4742a6aaDetail",
+    "ModifiedOnUtc": "\/Date(1630146542000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Tickets\""
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "df2ad656-bdda-4aa3-b52d-a56751366baf",
+    "Name": "SKSProcess_TicketReturnTypeFiltering",
+    "ModifiedOnUtc": "\/Date(1630486970000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Ticket Return Type Filtering"
+  }
+}

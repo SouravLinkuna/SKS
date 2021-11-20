@@ -1,0 +1,103 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "d33eadc8-e7d7-4505-95e5-3cd70ba29beb",
+      "A2": "UsrCountrybyName",
+      "A5": "03f703a9-4184-44c7-9901-28e72ddf4724",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "1d3b57e9-2af5-4ca9-817e-869276f0bb2a",
+      "B8": "7.18.1.2800",
+      "IQ1": "https://api.nationalize.io",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "9a8fe0f1-b153-4912-9411-93e371f304d3",
+          "A2": "Method1",
+          "A3": "d33eadc8-e7d7-4505-95e5-3cd70ba29beb",
+          "A4": "d33eadc8-e7d7-4505-95e5-3cd70ba29beb",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "127a4327-d71e-4c3d-9fbe-21fb6e82d9f4",
+                "A2": "Name",
+                "IU1": "name",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "sourav",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "7115cbce-53e2-4f0b-964a-9601007dde48",
+                "A2": "Name",
+                "IU1": "$.name",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "1243cdcd-8866-443e-a94d-66fa9247b42c",
+                "A2": "Country",
+                "IU1": "$.country",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "bcf7bdcf-33f7-47e3-8268-79d1228cb33d",
+                    "A2": "CCountryid",
+                    "IU1": "country_id",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "8ed6b91f-2bf4-4a5c-b1f3-8b658a2092a8",
+                    "A2": "CProbability",
+                    "IU1": "probability",
+                    "IU2": "Float",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

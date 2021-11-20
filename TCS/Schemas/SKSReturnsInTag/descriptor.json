@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f01bd2f-8989-430a-bf78-e01fe8b519f3",
+    "Name": "SKSReturnsInTag",
+    "ModifiedOnUtc": "\/Date(1630490428000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Returns section record tag"
+  }
+}

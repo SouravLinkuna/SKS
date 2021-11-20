@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f65e53d5-53e5-437a-b545-e892f4731cd4",
+    "Name": "SKSProcess_GenerateReturnNumber",
+    "ModifiedOnUtc": "\/Date(1631152837000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Generate Return Number"
+  }
+}

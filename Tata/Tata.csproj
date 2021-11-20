@@ -133,9 +133,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Files\cs\" />
+    <ProjectReference Include="..\TataShared\TataShared.csproj">
+      <Project>{d5dd1037-7ee0-41ba-9f0e-cfa9ff71b559}</Project>
+      <Name>TataShared</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Files\cs\Calculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <!-- ##BpmonlineSDKMarker## -->

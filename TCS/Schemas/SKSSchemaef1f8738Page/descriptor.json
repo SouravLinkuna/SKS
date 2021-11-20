@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "86d18530-e86d-4c5d-b286-2c9a3275f752",
+    "Name": "SKSSchemaef1f8738Page",
+    "ModifiedOnUtc": "\/Date(1630487545000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Tickets"
+  }
+}

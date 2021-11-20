@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tickets" />
+			<Item Name="Columns.SKSDetailEvent.Caption" Value="X" />
+			<Item Name="Columns.SKSDetailOwner.Caption" Value="Owner" />
+			<Item Name="Columns.SKSDetailReturnType.Caption" Value="Return Type" />
+			<Item Name="Columns.SKSDetailTicketcost.Caption" Value="Ticket cost" />
+			<Item Name="Columns.SKSName.Caption" Value="Name" />
+			<Item Name="Columns.SKSReturn.Caption" Value="Returns" />
+			<Item Name="Columns.SKSTicketEvent.Caption" Value="Event" />
+		</Items>
+	</Group>
+</Resources>

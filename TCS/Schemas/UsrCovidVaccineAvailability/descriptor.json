@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce30ca83-ba7e-47fb-8a2f-417fceeccd4d",
+    "Name": "UsrCovidVaccineAvailability",
+    "ModifiedOnUtc": "\/Date(1629683300000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Covid Vaccine Availability",
+    "DependsOn": []
+  }
+}

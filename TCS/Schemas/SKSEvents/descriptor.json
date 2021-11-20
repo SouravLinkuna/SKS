@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "badb4544-02ed-40df-8284-d834c0bc25ef",
+    "Name": "SKSEvents",
+    "ModifiedOnUtc": "\/Date(1630057506000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Events"
+  }
+}

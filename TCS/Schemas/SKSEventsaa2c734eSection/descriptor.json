@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "81089d32-112d-408b-a83b-e79aff9444d0",
+    "Name": "SKSEventsaa2c734eSection",
+    "ModifiedOnUtc": "\/Date(1630057493000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Events\""
+  }
+}

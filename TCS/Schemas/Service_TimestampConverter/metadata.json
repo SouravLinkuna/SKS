@@ -1,0 +1,64 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "0fd511e3-2188-4a20-b9d3-ebc715e9e8ea",
+      "A2": "Service_TimestampConverter",
+      "A5": "03f703a9-4184-44c7-9901-28e72ddf4724",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "1d3b57e9-2af5-4ca9-817e-869276f0bb2a",
+      "B8": "7.18.1.2800",
+      "IQ1": "https://showcase.api.linx.twenty57.net",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "34047d9b-6b2a-4202-8489-47afbe7ca076",
+          "A2": "Method1",
+          "A3": "0fd511e3-2188-4a20-b9d3-ebc715e9e8ea",
+          "A4": "0fd511e3-2188-4a20-b9d3-ebc715e9e8ea",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "314f29ba-727a-4831-a922-649a88d83ebb",
+                "A2": "Timestamp",
+                "IU1": "timestamp",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/UnixTime/fromunix"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "da7e5e05-9a6a-44b3-a46f-c4c51c797852",
+                "A2": "Parameter",
+                "IU1": "$",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

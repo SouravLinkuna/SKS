@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Returns" />
+			<Item Name="Columns.SKSApplicantAccounttype.Caption" Value="Applicant's account ttype" />
+			<Item Name="Columns.SKSBoolean.Caption" Value="Bool" />
+			<Item Name="Columns.SKSExpensiveTicket.Caption" Value="Expensive Ticket" />
+			<Item Name="Columns.SKSName.Caption" Value="Number" />
+			<Item Name="Columns.SKSNotes.Caption" Value="Notes" />
+			<Item Name="Columns.SKSReturnsApplicant.Caption" Value="Applicant" />
+			<Item Name="Columns.SKSReturnsDepartmentalmanager.Caption" Value="Departmental manager" />
+			<Item Name="Columns.SKSReturnsFinancialcontroller.Caption" Value="Financial controller" />
+			<Item Name="Columns.SKSReturnsOwner.Caption" Value="Owner" />
+			<Item Name="Columns.SKSReturnsReason.Caption" Value="Reason" />
+			<Item Name="Columns.SKSReturnsReporter.Caption" Value="Reporter" />
+			<Item Name="Columns.SKSReturnsStatus.Caption" Value="Status" />
+			<Item Name="Columns.SKSReturnsTotalCost2.Caption" Value="Total cost" />
+		</Items>
+	</Group>
+</Resources>
