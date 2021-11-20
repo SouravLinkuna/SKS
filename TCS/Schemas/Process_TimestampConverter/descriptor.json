@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2c0cd8b-b188-4200-85b0-9435a338b195",
+    "Name": "Process_TimestampConverter",
+    "ModifiedOnUtc": "\/Date(1629698586000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Timestamp Converter"
+  }
+}

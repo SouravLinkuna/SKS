@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e2741eb8-d2a4-4c7b-a78e-05debbd68752",
+    "Name": "RequestsFile",
+    "ModifiedOnUtc": "\/Date(1629639779000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests attachment"
+  }
+}

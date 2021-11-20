@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "196a1f23-7d79-4d29-9ccd-02608af1b557",
+    "Name": "RequestsInFolder",
+    "ModifiedOnUtc": "\/Date(1629639786000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests in Folder"
+  }
+}

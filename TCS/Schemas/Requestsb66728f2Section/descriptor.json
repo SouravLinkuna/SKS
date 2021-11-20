@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9efe7ea2-e338-4c71-af76-9a2e55ae6484",
+    "Name": "Requestsb66728f2Section",
+    "ModifiedOnUtc": "\/Date(1629639763000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Requests\""
+  }
+}

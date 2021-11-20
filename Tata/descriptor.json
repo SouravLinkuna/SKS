@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "88c74fe1-9c17-46fa-b8b8-ebd67f73fdff",
+    "PackageVersion": "7.8.0",
+    "Name": "Tata",
+    "ModifiedOnUtc": "/Date(1629637729000)/",
+    "Maintainer": "Customer",
+    "Description": "Training Package\nhttps://github.com/SouravLinkuna/README.md",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

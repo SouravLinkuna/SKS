@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4956f54-dd49-4f01-a692-1fab114f7a96",
+    "Name": "RequestsTag",
+    "ModifiedOnUtc": "\/Date(1629639789000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests section tag"
+  }
+}

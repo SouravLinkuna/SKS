@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="https://cdn-api.co-vin.in" />
+			<Item Name="ServiceMethods.UsrMethod1.Caption" Value="/api/v2/appointment/sessions/public/findByPin" />
+			<Item Name="ServiceMethods.UsrMethod1.Request.Parameters.UsrDate.Caption" Value="Date" />
+			<Item Name="ServiceMethods.UsrMethod1.Request.Parameters.UsrPincode.Caption" Value="Pincode" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.Caption" Value="Sessions" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSAddress.Caption" Value="Address" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSAvailablecapacity.Caption" Value="Available_capacity" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSAvailablecapacitydose.Caption" Value="Available_capacity_dose1" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSAvailablecapacitydose1.Caption" Value="Available_capacity_dose2" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSDate.Caption" Value="Date" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSFeetype.Caption" Value="Fee_type" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSName.Caption" Value="Name" />
+			<Item Name="ServiceMethods.UsrMethod1.Response.Parameters.UsrSessions.ItemProperties.UsrSPincode.Caption" Value="Pincode" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d4ac7eb-9cb9-479a-a314-2d7645e43aad",
+    "Name": "Process_HelloWorld",
+    "ModifiedOnUtc": "\/Date(1629636696000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Hello World Process"
+  }
+}
