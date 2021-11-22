@@ -109,6 +109,25 @@ define("SKSEvents1Page", [], function() {
 			},
 			{
 				"operation": "insert",
+				"name": "LOOKUPc2df4d76-2971-4af5-b138-e7b69e3c9568",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 4,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "Test",
+					"enabled": true,
+					"contentType": 5
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 4
+			},
+			{
+				"operation": "insert",
 				"name": "STRING147c2f6a-f2bb-4c3e-8692-0cdfadc2ec13",
 				"values": {
 					"layout": {

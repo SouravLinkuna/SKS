@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b17021c6-8006-49fb-a102-18904a94bcdf",
+    "Name": "TestLookup",
+    "ModifiedOnUtc": "\/Date(1637390909000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Test Lookup"
+  }
+}

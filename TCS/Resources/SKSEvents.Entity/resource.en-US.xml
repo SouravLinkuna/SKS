@@ -12,6 +12,7 @@
 			<Item Name="Columns.SKSEventsStartdate.Caption" Value="Start date" />
 			<Item Name="Columns.SKSEventsSubcategory.Caption" Value="Sub category" />
 			<Item Name="Columns.SKSNotes.Caption" Value="Notes" />
+			<Item Name="Columns.Test.Caption" Value="Test" />
 		</Items>
 	</Group>
 </Resources>
